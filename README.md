@@ -6,7 +6,7 @@ Provide visual feedback to Louise what will help her establish a realistic goal,
 
 ![Figure 1. All Category Outcomes-United States](https://github.com/danidevelops/kickstarter-analysis/blob/master/ParentCategoryOutcomes-US.png) 
   
-  Figure 1 shows us that of all caegories in the United States, "Theater" Kickstarter campaigns have had the most success.
+  Figure 1 shows us that of all categories in the United States, "Theater" Kickstarter campaigns have had the most success.
   
 ![Figure 2. Subcategory Outcomes-United States](https://github.com/danidevelops/kickstarter-analysis/blob/master/SubcategoryOutcomes-US.png)
 
