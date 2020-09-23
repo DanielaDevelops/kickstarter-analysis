@@ -20,4 +20,4 @@ The Descriptive Statistics tab, found in [Kickstarter Analysis](https://github.c
 - Failed campaigns have much higher goals than successful campaigns
 - Louise is asking for more than twice the average successful goal, which is not a good stat for Louise's sake
 
-Although Plays have been the most successful over the observed timeframe, Louise may want to look into more information to better determine her plan for success. The "Challenge" section [Module One Challenge] (https://github.com/danidevelops/ModuleOne-Challenge), utilizes this data to determine if other Kickstarter campaigns were able to come close to their fundraising goal in a short amount of time, as Louise's play ,*Fever*, did.
+Although Plays have been the most successful over the observed timeframe, Louise may want to look into more information to better determine her plan for success. The "Challenge" section [Module One Challenge](https://github.com/danidevelops/ModuleOne-Challenge), utilizes this data to determine if other Kickstarter campaigns were able to come close to their fundraising goal in a short amount of time, as Louise's play ,*Fever*, did.
